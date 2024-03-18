@@ -1,0 +1,26 @@
+body{
+
+}
+.menu{
+    list-style: none;
+    padding: 0;
+    background: #5b7d83;
+    width: 90%;
+    max-width: 912px;
+    margin: auto;
+}
+.menu a {
+    text-decoration: none;
+    color: rgb(191, 76, 76);
+    padding: 10px;
+    display: block;
+}
+.menu a{
+    display: inline-block;
+    text-align: center;
+}
+.menu a:hover{
+    background: #ef8354;
+
+}
+
